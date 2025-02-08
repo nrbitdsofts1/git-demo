@@ -1,3 +1,6 @@
 Hello, Git!
 This is my first Git-tracked file.
 This is the new added feature!
+
+
+now this is the new thing that i have added.
